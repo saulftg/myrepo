@@ -1,2 +1,2 @@
 # myrepo
-A test repository
+A learning test reposiroty
